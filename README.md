@@ -14,7 +14,7 @@
 ---
 
 ### 🚀 Featured Projects
-* **[Plant Disease Classification and Remediation System](https://github.com/HarishKumarRamesh)** Engineered a dual-model computer vision pipeline using PyTorch (ConvNeXt) achieving ~94% accuracy, integrated with an asynchronous FastAPI backend, Streamlit frontend, and Google Gemini Flash for instant agricultural remedy recommendations.
+* **[Plant Disease Classification and Remediation System](https://github.com/HarishKumarRamesh)** Engineered a dual-model computer vision pipeline using PyTorch (ConvNeXt) achieving ~94% accuracy, integrated with an asynchronous FastAPI backend, Streamlit frontend, and Google Gemini Flash, and automated via a robust GitHub Actions CI/CD pipeline featuring Ruff linting, automated pytest suites, Docker containerization, and seamless distribution through the GitHub Container Registry (GHCR).
 * **[Early Detection of Dementia (Full-Stack ML System)](https://github.com/HarishKumarRamesh)**: Engineered a Scikit-Learn pipeline for real-time MRI feature inference with Pydantic validation, deployed via a FastAPI backend and Streamlit frontend on Render with a persistent PostgreSQL database layer.
 * **[Terms & Conditions Analyzer](https://github.com/HarishKumarRamesh)**: Developed an NLP-based Python application utilizing BeautifulSoup and NLTK to tokenize, preprocess, and categorize legal clauses into distinct risk tiers.
 * **[Automated Turf Booking Chatbot](https://github.com/HarishKumarRamesh)**: Designed an intelligent NLP-driven conversation flow to automate turf reservations, achieving a 58% reduction in average booking time.
