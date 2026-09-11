@@ -9,7 +9,7 @@
 ### 🛠️ Technical Expertise
 * **Programming & Databases:** Python, R, Java, PostgreSQL, MongoDB, SQL
 * **Machine Learning & AI:** Scikit-Learn, PyTorch, Google Gemini Flash, NLP (NLTK, BeautifulSoup), FastAPI, Streamlit
-* **DevOps, Automation & Enterprise Tools:** GitHub Actions, Docker, GitHub Container Registry (GHCR), Pytest, Ruff, Power Automate, Power BI, SAP, Azure, AWS, Excel (VBA/Scripting), Selenium
+* **DevOps, Automation & Enterprise Tools:** GitHub Actions, Docker, GitHub Container Registry (GHCR), Pytest, Ruff, Power Automate, Power BI, SAP, Azure, Excel (VBA/Scripting), Selenium
 
 ---
 
